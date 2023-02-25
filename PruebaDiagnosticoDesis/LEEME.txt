@@ -16,7 +16,7 @@ Para poder utilizar la aplicacion web de votación, es necesario seguir los sigu
 
 3- Descargar la aplicación PHP desde el siguiente link de github: https://github.com/AndresPrudant/proyectos.
 
-4- Una vez descargada la aplicación, se debe crear una nueva carpeta en la siguiente ruta: C:\wamp64\www\*NuevaCarpeta* y se debe copiar la aplicación en la nueva carpeta.
+4- Una vez descargada la aplicación, se debe copiar y pegar en la siguiente ruta: C:\wamp64\www\*Pegar proyecto*.
 
 5- Se debe abrir la aplicacion Wamp Server y esperar unos segundos para que los servicios se inicien. Cuando en la barra de aplicaciones aparece el logo de wamp en verde,
    ya se puede empezar a utilizar la aplicación web desde un escritorio.
@@ -29,7 +29,7 @@ Para poder utilizar la aplicacion web de votación, es necesario seguir los sigu
 8- Una vez ingresado, para importar la BD es necesario pinchar en 'importar' donde está el menu de opciones en la parte superior, solo se debe Seleccionar el archivo
    de la bd ubicada en la carpeta 'Bdd' del proyecto, bajar hasta el final y solo pinchar en importar.
 
-9- Como último paso, para poder utilizar la aplicación es necesario ingresar a la siguiente url desde el navegador: localhost\*NuevaCarpeta*\index.php
+9- Como último paso, para poder utilizar la aplicación es necesario ingresar a la siguiente url desde el navegador: localhost\PruebaDiagnosticoDesis\index.php
 
 10- A probar!
 
